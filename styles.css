@@ -1,5 +1,6 @@
 .header {
-    color: red;
+    color:black;
+    font-style: bold;
 }
 
 .subheader {
@@ -7,14 +8,27 @@
     font-style: italic;
 }
 
+.aboutMe {
+    color: red;
+    font-family:'Times New Roman';
+    font-style: bold;
+    padding-left: 10px;
+}
+
+.topOfPage {
+    text-align: center;
+    background-color: rgb(237, 146, 35);
+    padding: 20px;
+}
+
 .navbar {
     background: black;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
 
 .nav-option {
     color: rgb(50, 238, 50);
-    margin-right: 5px;
+    margin-right: 15px;
 }
