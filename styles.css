@@ -21,6 +21,28 @@
     padding: 20px;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.backgroundImageTech {
+    background-image: url('https://i.pinimg.com/736x/f3/ac/26/f3ac2640e72f9d6e22034da0e54db5b5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.columnSide {
+    float:left;
+    width: 25%;
+}
+
+.columnMiddle {
+    float: left;
+    width: 50%;
+}
+
 .navbar {
     background: black;
     padding-top: 10px;
