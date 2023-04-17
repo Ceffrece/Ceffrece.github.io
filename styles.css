@@ -8,15 +8,12 @@
     font-style: italic;
 }
 
-.overwatchBackground {
-    text-align: center;
-    background-image: url('https://images.blz-contentstack.com/v3/assets/bltf408a0557f4e4998/blt030bf3d606661d3c/633f5be164fe5a7d4481a16c/overwatch-section1-feature1.png?width=&format=webply&dpr=2&disable=upscale&quality=80');
-}
 .aboutMe {
     color: red;
     font-family:'Times New Roman';
     font-style: bold;
     padding-left: 10px;
+    text-align: center;
 }
 
 .topOfPage {
@@ -37,6 +34,7 @@
     background-attachment: fixed;
     background-size: cover;
 }
+
 .columnSide {
     float:left;
     width: 25%;
