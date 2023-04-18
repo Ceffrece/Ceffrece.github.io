@@ -35,9 +35,30 @@
     background-size: cover;
 }
 
+.techImage2 {
+    background-image: url("https://t4.ftcdn.net/jpg/04/20/44/59/360_F_420445938_13irsG4Sfc3GBaHkl14Oi2EjObUIu1Nm.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .columnSide {
     float:left;
     width: 25%;
+}
+
+.gitHubLink {
+    font-family: Impact;
+    font-size: x-large;
+    color: rgb(3, 62, 3);
+    text-align: center;
+    padding-left: 280px;
+}
+
+.externalLink {
+    font-family: Trebuchet;
+    font-size: large;
+    color: black;
 }
 
 .columnMiddle {
